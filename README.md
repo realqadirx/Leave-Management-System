@@ -3,5 +3,5 @@
 Merged branch including both kritikay and Aditya changes.
 
 ## Contents
-- Python backend files (from Aditya)
-- Leave request implementation (from kritikay)
+- Leave request implementation (from Qadir)
+- Python backend files (from Kritika)
